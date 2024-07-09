@@ -22,3 +22,4 @@ git remote remove origin
 origin  https://github.com/Rakesh-786/false-Pro.git (fetch)
 origin  https://github.com/Rakesh-786/false-Pro.git (push)
 git config --list // listing all details
+ git push origin main // for push file on github repository
